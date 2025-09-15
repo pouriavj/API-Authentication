@@ -5,4 +5,4 @@ A simple page that user can select different "Secrets" from a public API , using
 
 ### Page screen shot:
 
-![home page](https://github.com/pouriavj/API-Axios/blob/main/boredActivity.jpg?raw=true)
+![home page](https://github.com/pouriavj/API-Authentication/blob/main/Screenshot.jpg?raw=true)
